@@ -1,21 +1,18 @@
 # Analysis of the top 12 chess players
 
 
-o jogo de xadrez é amado em diversos países como a Russia, Estados Unidos, India, China Ucrania e Polonia. Xadrez é um jogo que desafia a nossa capacidade de pensar e melhora a nossa
-capacidade mental. Além disso, melhora nossa memoria e a habilidade de planejar, ficamos mais criativos e protege contra a demencia.
+The game of chess is loved in many countries like Russia, United States, India, China, Ukraine and Poland. Chess is a game that challenges our ability to think and improves our mental ability. Furthermore, it improves our memory and ability to plan, we become more creative and protect against dementia.
 
-As peças do xadrez tem diferentes valores, por exemplo, o cavalo e bispo vale 3 cada, a torre vale 5, a rainha vale 9 e o pião vale 1. Entretanto, esses 
-valores são simbólicos pode não retratar a realidade pois em algumas posição o cavalo pode valer mais que uma torre ou um pião pode valer o mesmo que uma rainha em caso de promoção.
+Chess pieces have different values, for example, knight and bishop are worth 3 each, rook is worth 5, queen is worth 9 and pawn is worth 1. However, these
+values are symbolic may not portray reality as in some positions the knight can be worth more than a rook or a pawn can be worth the same as a queen in case of promotion.
 
 
-Os jogos de xadrez podem ser agressivo ou posicional. O jogo é agressivo quando um jogador sacrifica uma peça ou mais para conseguir dá cheque mate (objetivo do jogo) ou conseguir 
-materiais(peças) do adversário, neste caso o jogo se resolve na tática. O Jogo posicional é quando o jogador tenta melhorar a sua posição em cada movimento, neste caso o jogo envolve muita
-estratégia.
+Chess games can be aggressive or positional. The game is aggressive when a player sacrifices a piece or more to get checkmate (goal of the game) or get
+materials (pieces) of the opponent, in this case the game is resolved in tactics. Positional play is when the player tries to improve his position in every move, in which case the game involves a lot strategy.
 
-Sabendo, disso irei analisar 12 top jogadores do mundo de diversas decadas. O objetivo é:
-
-- As peças que são mais sacrificadas? 
-- Jogador que possue mais vitorias? 
-- E o jogador que mais perde? E o que mais empata?
-- Quem é o mais agressivo?
-- Quem é o mais posicional?
+Knowing that, I will analyze 12 top players in the world from several decades. The aim is to answer some questions:
+- The most sacrificed piece?
+- Player with the most wins? 
+- And the player who loses the most? 
+- Who is the most aggressive?
+- Who is the most positional?
