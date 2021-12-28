@@ -11,6 +11,7 @@ Chess games can be aggressive or positional. The game is aggressive when a playe
 materials (pieces) of the opponent, in this case the game is resolved in tactics. Positional play is when the player tries to improve his position in every move, in which case the game involves a lot strategy.
 
 Knowing that, I will analyze 12 top players in the world from several decades. The 12 players are Alexander Alekhine, Viswanathan Anand, José Raúl Capablanca, Bobby Fischer, Judit Polgár, Hikaru Nakamura, Mikhail Tal, Fabiano Caruana, Garry Kasparov, Magnus Carlsen, Paul Morphy and Mikhail Botvinnik. They are the first 12 players showing up on chess.com chess database.
+
 The aim is to answer some questions:
 - The most sacrificed piece?
 - Player with the most wins? 
