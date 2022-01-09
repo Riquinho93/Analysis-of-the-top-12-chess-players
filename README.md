@@ -17,4 +17,4 @@ The aim is to answer some questions:
 - Player with the most wins? 
 - And the player who loses the most? 
 - Who is the most aggressive?
-- Who is the most positional?
+
